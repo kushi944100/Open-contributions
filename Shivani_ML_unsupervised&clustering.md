@@ -73,7 +73,7 @@ Now let's understand clustering in detailed
 <img src="https://i.stack.imgur.com/KPjMy.png" alt="clustering img "><br>
 #   Clusturing approach
 how you would approach clustering problem let's have a look:-
-<img src="https://cdn.app.compendium.com/uploads/user/e7c690e8-6ff9-102a-ac6d-e4aebca50425/f0499405-1197-4b43-b7c5-40548eeb9f34/File/9b5d5bd03696c340d213ba9af955b13c/clustering_and_k_means_machine_learning.png" alt="black data set">
+
 Now we have data sets like everything is black now our job is to color some of these as red and some of these as green
 And to do that initially you can obviously look at the things and color some of them as red and some as green and cluster those two things so what do you need for clustering let's have a look <br>
 # Proximity measure
@@ -143,7 +143,7 @@ Let's discuss the flow chart in detailed
 
 **Steps involved**
 1.	Select the number of clusters to be identified for eg:-select k=3 in above case<br>
-      <img src="https://lh3.googleusercontent.com/proxy/fwOHgHzI3n6hQm_XiV44PVImxJ9gC0zSqs3c0_HTs0QTA-cozJl0reRlGg8aorPCQupWDtR5il4gVQgT7uWMqbZ7qTOYXtzsuqWDgNmU9xqn7aGVCcivXQAPfYCdbOhb6VQ9yvOTHtJuFch72fu5d22CWQ" alt="initial step"><br>
+      <br>
 
 2.	Randomly select 3 distinct data points<br><img src="https://media.geeksforgeeks.org/wp-content/uploads/20190812011808/Screenshot-2019-08-12-at-1.13.15-AM.png" alt="random selection step"><br>
 3.	Measure the distance between the 1st point & selected 3 clusters
